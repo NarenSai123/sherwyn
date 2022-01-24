@@ -1,0 +1,29 @@
+.banner {
+    color: white;
+    background: url('../../assets/img/hero_background.png') top left/cover no-repeat;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner-Head-p {
+    padding-top: 81px;
+}
+h2 {
+    font-size: 28px;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: Montserrat-Bold;
+}
+.aboutText p{
+    margin-top: 15px;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+.loaction{
+    background-image: url("../../assets/img/location.png");
+    height: 300px;
+}
